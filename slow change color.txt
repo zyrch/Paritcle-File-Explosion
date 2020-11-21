@@ -1,0 +1,8 @@
+
+
+int elasped = SDL_GetTicks();        // SDL_GetTicks return the no of miliseconds the program has run
+
+
+        unsigned char green = (unsigned char)((1 + sin(elasped * 0.0001))* 128);           // return a value between 0 and 255
+        unsigned char red = (unsigned char)((1 + cos(elasped * 0.0002))* 128);
+        unsigned char blue = (unsigned char)((1 + sin(elasped * 0.001))* 128);

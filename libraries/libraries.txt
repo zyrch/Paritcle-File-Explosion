@@ -1,0 +1,6 @@
+Static Libraries - actually compiled into your program
+Dynamic libraries - program find a code at run time
+
+Static: windows - XYZ.lib, UNIX/Linux/Mac libXYZ.a
+Dynamic: windows - XYZ.dll, UNIX/Linux/Mac libXYZ.so
+Mac: dynamic -> XYZ.dylib

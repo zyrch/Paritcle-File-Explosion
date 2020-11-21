@@ -1,0 +1,4 @@
+/opt/clion-2020.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/zyrch/CLionProjects/Particle Fire Explosion"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug

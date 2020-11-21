@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Particle_Fire_Explosion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Particle_Fire_Explosion">
+				<Option output="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug/Particle_Fire_Explosion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/zyrch/CLionProjects/Particle Fire Explosion/include"/>
+					<Add directory="/home/zyrch/CLionProjects/Particle Fire Explosion/libSDL2-2.0.so.0"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particle_Fire_Explosion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Particle_Fire_Explosion/fast">
+				<Option output="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug/Particle_Fire_Explosion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyrch/CLionProjects/Particle Fire Explosion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/zyrch/CLionProjects/Particle Fire Explosion/include"/>
+					<Add directory="/home/zyrch/CLionProjects/Particle Fire Explosion/libSDL2-2.0.so.0"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Particle_Fire_Explosion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyrch/CLionProjects/Particle\ Fire\ Explosion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Particles.cpp">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Particles.h">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Screen.cpp">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Screen.h">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Swarm.cpp">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/Classes/Swarm.h">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/main.cpp">
+			<Option target="Particle_Fire_Explosion"/>
+		</Unit>
+		<Unit filename="/home/zyrch/CLionProjects/Particle Fire Explosion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
